@@ -14,9 +14,9 @@
   
 ## Repository Metrics
 
-* Stars: 5856
+* Stars: 5857
 * Forks: 792
-* Watchers: 5856
+* Watchers: 5857
 * Contributors URL: https://api.github.com/repos/duo-labs/cloudmapper/contributors 
 * Latest Release: 2024-04-03T15:30:52Z
 * License: BSD 3-Clause "New" or "Revised" License

@@ -18,7 +18,7 @@
 * Forks: 3968
 * Watchers: 14961
 * Contributors URL: https://api.github.com/repos/aws/aws-cli/contributors 
-* Latest Release: 2024-05-20T16:49:36Z
+* Latest Release: 2024-05-20T19:27:03Z
 * License: Other
 * Primary Language: Python
 

@@ -4,11 +4,6 @@ import codecs
 from jinja2 import Template
 from dotenv import load_dotenv
 
-# Set token
-def get_private_token():
-    access_token = os.environ.get('token.txt')
-    return access_token
-
 # Perform the requests to GH
 def get_github_repo_info(owner, repo, access_token):
     base_url = f'https://api.github.com/repos/{owner}/{repo}'

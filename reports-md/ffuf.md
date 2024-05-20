@@ -14,9 +14,9 @@
   
 ## Repository Metrics
 
-* Stars: 11551
+* Stars: 11550
 * Forks: 1211
-* Watchers: 11551
+* Watchers: 11550
 * Contributors URL: https://api.github.com/repos/ffuf/ffuf/contributors 
 * Latest Release: 2024-04-07T15:24:38Z
 * License: MIT License

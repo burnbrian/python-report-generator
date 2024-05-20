@@ -19,9 +19,9 @@
   
 ## Repository Metrics
 
-* Stars: 30762
-* Forks: 5555
-* Watchers: 30762
+* Stars: 30763
+* Forks: 5554
+* Watchers: 30763
 * Contributors URL: https://api.github.com/repos/sqlmapproject/sqlmap/contributors 
 * Latest Release: 2024-05-17T05:20:57Z
 * License: Other

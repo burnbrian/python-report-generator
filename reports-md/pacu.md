@@ -19,7 +19,7 @@
 * Forks: 657
 * Watchers: 4070
 * Contributors URL: https://api.github.com/repos/RhinoSecurityLabs/pacu/contributors 
-* Latest Release: 2024-05-20T17:20:56Z
+* Latest Release: 2024-05-20T19:35:58Z
 * License: BSD 3-Clause "New" or "Revised" License
 * Primary Language: Python
 

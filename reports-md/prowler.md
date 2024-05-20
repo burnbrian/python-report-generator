@@ -28,11 +28,11 @@
   
 ## Repository Metrics
 
-* Stars: 9670
+* Stars: 9672
 * Forks: 1407
-* Watchers: 9670
+* Watchers: 9672
 * Contributors URL: https://api.github.com/repos/prowler-cloud/prowler/contributors 
-* Latest Release: 2024-05-20T17:06:10Z
+* Latest Release: 2024-05-20T20:05:10Z
 * License: Apache License 2.0
 * Primary Language: Python
 

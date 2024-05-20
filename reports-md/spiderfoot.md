@@ -29,9 +29,9 @@
   
 ## Repository Metrics
 
-* Stars: 11872
+* Stars: 11873
 * Forks: 2109
-* Watchers: 11872
+* Watchers: 11873
 * Contributors URL: https://api.github.com/repos/smicallef/spiderfoot/contributors 
 * Latest Release: 2024-04-28T23:58:29Z
 * License: MIT License
