@@ -1,4 +1,4 @@
-name: Convert Markdown Reports to PDF and DOCX
+name: Old Convert Markdown Reports to PDF and DOCX
 
 on:
   push:
