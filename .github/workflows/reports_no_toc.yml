@@ -1,4 +1,4 @@
-name: Convert Markdown Reports to PDF and DOCX
+name: Markdown Reports to PDF Without Table of Contents
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
                 input_dir: reports-md
                 output_dir: reports-pdf
                 build_html: false
-                table_of_contents: true
+                table_of_contents: false
             - uses: actions/upload-artifact@v3
               with:
                 name: reports-pdf
