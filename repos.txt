@@ -5,3 +5,10 @@ https://github.com/sqlmapproject/sqlmap
 https://github.com/RustScan/RustScan
 https://github.com/smicallef/spiderfoot
 https://github.com/ffuf/ffuf
+https://github.com/lyft/cartography
+https://github.com/duo-labs/cloudmapper
+https://github.com/nccgroup/PMapper
+https://github.com/prowler-cloud/prowler
+https://github.com/nccgroup/ScoutSuite
+https://github.com/grines/scour
+https://github.com/carnal0wnage/weirdAAL
