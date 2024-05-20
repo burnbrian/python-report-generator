@@ -15,9 +15,9 @@
   
 ## Repository Metrics
 
-* Stars: 4069
-* Forks: 656
-* Watchers: 4069
+* Stars: 4070
+* Forks: 657
+* Watchers: 4070
 * Contributors URL: https://api.github.com/repos/RhinoSecurityLabs/pacu/contributors 
 * Latest Release: 2024-05-20T17:20:56Z
 * License: BSD 3-Clause "New" or "Revised" License

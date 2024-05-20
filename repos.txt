@@ -12,3 +12,8 @@ https://github.com/prowler-cloud/prowler
 https://github.com/nccgroup/ScoutSuite
 https://github.com/grines/scour
 https://github.com/carnal0wnage/weirdAAL
+https://github.com/aws/aws-cli
+https://github.com/dagrz/aws_pwn
+https://github.com/zer1t0/awsenum
+https://github.com/joshlarsen/aws-recon
+https://github.com/andresriancho/enumerate-iam
